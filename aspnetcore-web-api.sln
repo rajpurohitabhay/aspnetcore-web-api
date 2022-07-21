@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnetcore-web-api", "aspnetcore-web-api\aspnetcore-web-api.csproj", "{35FE23C6-072B-4B92-80FD-46199CE00ABD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web API Test", "Web API Test\Web API Test.csproj", "{EB0865D5-9514-40AA-A124-8EEE6B72F2A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{35FE23C6-072B-4B92-80FD-46199CE00ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35FE23C6-072B-4B92-80FD-46199CE00ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35FE23C6-072B-4B92-80FD-46199CE00ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35FE23C6-072B-4B92-80FD-46199CE00ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0865D5-9514-40AA-A124-8EEE6B72F2A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0865D5-9514-40AA-A124-8EEE6B72F2A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0865D5-9514-40AA-A124-8EEE6B72F2A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0865D5-9514-40AA-A124-8EEE6B72F2A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

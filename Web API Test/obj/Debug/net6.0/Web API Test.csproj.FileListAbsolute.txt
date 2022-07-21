@@ -1,0 +1,27 @@
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\appsettings.Development.json
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\appsettings.json
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\Web API Test.exe
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\Web API Test.deps.json
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\Web API Test.runtimeconfig.json
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\Web API Test.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\Web API Test.pdb
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.csproj.AssemblyReference.cache
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.AssemblyInfoInputs.cache
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.AssemblyInfo.cs
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.csproj.CoreCompileInputs.cache
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.MvcApplicationPartsAssemblyInfo.cs
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.MvcApplicationPartsAssemblyInfo.cache
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\staticwebassets.build.json
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\staticwebassets.development.json
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\scopedcss\bundle\Web API Test.styles.css
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.csproj.CopyComplete
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\refint\Web API Test.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.pdb
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\Web API Test.genruntimeconfig.cache
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\Web API Test\obj\Debug\net6.0\ref\Web API Test.dll
