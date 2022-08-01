@@ -6,6 +6,7 @@ E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debu
 E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.dll
 E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\SuperHeroAPI.pdb
 E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\Humanizer.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -59,3 +60,7 @@ E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\obj\Debu
 E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.pdb
 E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\obj\Debug\net6.0\SuperHeroAPI.genruntimeconfig.cache
 E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\obj\Debug\net6.0\ref\SuperHeroAPI.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\Scrutor.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\Abhaysingh\study-material\aspnetcore\aspnetcore-web-api\SuperHeroAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
